@@ -1,6 +1,5 @@
 # LU-LC-classification
 Change detection in forest cover from satellite imagery.
-# LU-LC Classification
 
 This project focuses on **change detection in forest cover** using **satellite imagery** over two distinct periods: **2014** and **2024**. The goal is to classify land cover and land use (LU-LC), detect changes in forest cover, and produce a detailed land cover classification map.
 
